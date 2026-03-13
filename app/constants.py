@@ -1,0 +1,1 @@
+ERR_CODE_NOT_FOUND = "Short code '{code}' not found"
