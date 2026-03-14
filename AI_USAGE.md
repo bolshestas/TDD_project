@@ -2,7 +2,8 @@
 
 ## Tools Used
 
-- **Claude (claude.ai)** — primary AI assistant throughout the project
+- **Claude Sonnet 4.6**
+- **ChatGPT 5.3** 
 
 ---
 
